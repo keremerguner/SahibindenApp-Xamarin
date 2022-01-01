@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SahibindenApp"
+             x:Class="SahibindenApp.MainPage"
+             BackgroundColor="Gainsboro">
+
+    <ScrollView>
+
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+
+            </Grid.ColumnDefinitions>
+
+            <Label
+                Text="SAHİBİNDEN"
+                TextColor="DodgerBlue"
+                FontAttributes="Bold"
+                FontSize="30"
+                HorizontalOptions="Center"
+                Grid.ColumnSpan="2"
+                Padding="5"/>
+
+
+            <StackLayout 
+                Grid.Row="1"
+                Grid.Column="0"
+                BackgroundColor="White"
+                Padding="10,10">
+                <Image Source="https://resimyukle.org/images/2021/12/29/ad52485c4fe810277e1a37f75c4b49be.md.png" />
+                <Label Text="Bmw 5.20 - Sport Line" FontSize="17" TextColor="Black" FontAttributes="Bold" />
+                <Label Text="520.000 TL" TextColor="DarkRed" HorizontalOptions="End" />
+                <BoxView HeightRequest="1" Color="DarkGray" />
+                <StackLayout Orientation="Horizontal">
+                    <Button ImageSource="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png"
+                            HorizontalOptions="EndAndExpand" BackgroundColor="AliceBlue" />
+                    <Button ImageSource="https://img.icons8.com/fluency/48/000000/buy.png"
+                            HorizontalOptions="StartAndExpand" BackgroundColor="AliceBlue"/>
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="1"
+                Grid.Column="1"
+                BackgroundColor="White"
+                Padding="10,10">
+                <Image Source="https://resimyukle.org/images/2021/12/29/83fc80914cf9af860ce79ada1c4e9ffa.md.png" />
+                <Label Text="Audi A6 - Comfort Line" FontSize="17" TextColor="Black" FontAttributes="Bold" />
+                <Label Text="480.000 TL" TextColor="DarkRed" HorizontalOptions="End" />
+                <BoxView HeightRequest="1" Color="DarkGray" />
+                <StackLayout Orientation="Horizontal">
+                    <Button ImageSource="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png"
+                            HorizontalOptions="EndAndExpand" BackgroundColor="AliceBlue" />
+                    <Button ImageSource="https://img.icons8.com/fluency/48/000000/buy.png"
+                            HorizontalOptions="StartAndExpand" BackgroundColor="AliceBlue" />
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="2"
+                Grid.Column="0"
+                BackgroundColor="White"
+                Padding="10,10">
+                <Image Source="https://resimyukle.org/images/2021/12/29/26eaac8b4f0a41e9f0cb4ac4daf51769.md.png" />
+                <Label Text="Ford Mustang" FontSize="17" TextColor="Black" FontAttributes="Bold" />
+                <Label Text="900.000 TL" TextColor="DarkRed" HorizontalOptions="End" />
+                <BoxView HeightRequest="1" Color="DarkGray" />
+                <StackLayout Orientation="Horizontal">
+                    <Button ImageSource="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png"
+                            HorizontalOptions="EndAndExpand" BackgroundColor="AliceBlue" />
+                    <Button ImageSource="https://img.icons8.com/fluency/48/000000/buy.png"
+                            HorizontalOptions="StartAndExpand" BackgroundColor="AliceBlue" />
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="2"
+                Grid.Column="1"
+                BackgroundColor="White"
+                Padding="10,10">
+                <Image Source="https://resimyukle.org/images/2021/12/29/16a2a3784113e7a039f1cd0d0c21e965.md.png" />
+                <Label Text="Ferrari 458 Italia" FontSize="17" TextColor="Black" FontAttributes="Bold" />
+                <Label Text="1.200.000 TL" TextColor="DarkRed" HorizontalOptions="End" />
+                <BoxView HeightRequest="1" Color="DarkGray" />
+                <StackLayout Orientation="Horizontal">
+                    <Button ImageSource="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png"
+                            HorizontalOptions="EndAndExpand" BackgroundColor="AliceBlue" />
+                    <Button ImageSource="https://img.icons8.com/fluency/48/000000/buy.png"
+                            HorizontalOptions="StartAndExpand" BackgroundColor="AliceBlue" />
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="3"
+                Grid.Column="0"
+                BackgroundColor="White"
+                Padding="10,10">
+                <Image Source="https://resimyukle.org/images/2021/12/29/b0bc9cec92a5aa76602c65a661146593.md.png" />
+                <Label Text="Dodge Charger" FontSize="17" TextColor="Black" FontAttributes="Bold" />
+                <Label Text="800.000 TL" TextColor="DarkRed" HorizontalOptions="End" />
+                <BoxView HeightRequest="1" Color="DarkGray" />
+                <StackLayout Orientation="Horizontal">
+                    <Button ImageSource="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png"
+                            HorizontalOptions="EndAndExpand" BackgroundColor="AliceBlue" />
+                    <Button ImageSource="https://img.icons8.com/fluency/48/000000/buy.png"
+                            HorizontalOptions="StartAndExpand" BackgroundColor="AliceBlue" />
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="3"
+                Grid.Column="1"
+                BackgroundColor="White"
+                Padding="10,10">
+                <Image Source="https://resimyukle.org/images/2021/12/29/6632e6ea547244fbd669ee95b770b979.md.png" />
+                <Label Text="Volkswagen Passat " FontSize="17" TextColor="Black" FontAttributes="Bold" />
+                <Label Text="900.000 TL" TextColor="DarkRed" HorizontalOptions="End" />
+                <BoxView HeightRequest="1" Color="DarkGray" />
+                <StackLayout Orientation="Horizontal">
+                    <Button ImageSource="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png"
+                            HorizontalOptions="EndAndExpand" BackgroundColor="AliceBlue" />
+                    <Button ImageSource="https://img.icons8.com/fluency/48/000000/buy.png"
+                            HorizontalOptions="StartAndExpand" BackgroundColor="AliceBlue" />
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="4"
+                Grid.Column="0"
+                BackgroundColor="White"
+                Padding="10,10">
+                <Image Source="https://resimyukle.org/images/2021/12/29/797ee41d20929b11a83ed48ede854fee.png" />
+                <Label Text="Tofaş Doğan Slx ie" FontSize="17" TextColor="Black" FontAttributes="Bold" />
+                <Label Text="150.000 TL" TextColor="DarkRed" HorizontalOptions="End" />
+                <BoxView HeightRequest="1" Color="DarkGray" />
+                <StackLayout Orientation="Horizontal">
+                    <Button ImageSource="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png"
+                            HorizontalOptions="EndAndExpand" BackgroundColor="AliceBlue" />
+                    <Button ImageSource="https://img.icons8.com/fluency/48/000000/buy.png"
+                            HorizontalOptions="StartAndExpand" BackgroundColor="AliceBlue" />
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout
+                Grid.Row="4"
+                Grid.Column="1"
+                BackgroundColor="White"
+                Padding="10,10">
+                <Image Source="https://resimyukle.org/images/2021/12/29/589c34ae17a2f2efc0363567718f7208.md.png" />
+                <Label Text="Mercedes Amg" FontSize="17" TextColor="Black" FontAttributes="Bold" />
+                <Label Text="1.000.000 TL" TextColor="DarkRed" HorizontalOptions="End" />
+                <BoxView HeightRequest="1" Color="DarkGray" />
+                <StackLayout Orientation="Horizontal">
+                    <Button ImageSource="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png"
+                            HorizontalOptions="EndAndExpand" BackgroundColor="AliceBlue" />
+                    <Button ImageSource="https://img.icons8.com/fluency/48/000000/buy.png"
+                            HorizontalOptions="StartAndExpand" BackgroundColor="AliceBlue" />
+                </StackLayout>
+            </StackLayout>
+
+
+        </Grid>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,13 @@
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\bin\Debug\netstandard2.0\SahibindenApp.deps.json
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\bin\Debug\netstandard2.0\SahibindenApp.dll
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\bin\Debug\netstandard2.0\SahibindenApp.pdb
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\SahibindenApp.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\SahibindenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\SahibindenApp.AssemblyInfoInputs.cache
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\SahibindenApp.AssemblyInfo.cs
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\SahibindenApp.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\SahibindenApp.dll
+C:\Users\ergun\Desktop\DENEMELER\SahibindenApp\SahibindenApp\SahibindenApp\obj\Debug\netstandard2.0\SahibindenApp.pdb
